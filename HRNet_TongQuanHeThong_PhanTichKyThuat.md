@@ -14,7 +14,7 @@
 4. [HRNet-Object-Detection - Phát hiện Đối tượng](#4-hrnet-object-detection---phát-hiện-đối-tượng)
 5. [HigherHRNet - Ước lượng Tư thế Con người](#5-higherhrnet---ước-lượng-tư-thế-con-người)
 6. [HRNet-Facial-Landmark-Detection - Phát hiện Điểm đặc trưng Khuôn mặt](#6-hrnet-facial-landmark-detection---phát-hiện-điểm-đặc-trưng-khuôn-mặt)
-7. [Danh sách các Thuật toán và Tác dụng](#7-danh-sách-các-thuật-toán-và-tác-dụng)
+7. [Danh sách các Thuật toán và Tác dụng](#7-danh-sách-các -thuật-toán-và-tác-dụng)
 8. [Kết luận](#8-kết-luận)
 
 ---
