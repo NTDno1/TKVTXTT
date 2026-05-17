@@ -1,0 +1,25 @@
+# 3 HRNet repos - each is a standalone Git repo
+HRNet-Object-Detection/
+HigherHRNet-Human-Pose-Estimation/
+HRNet-Facial-Landmark-Detection/
+
+# OS temp files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
