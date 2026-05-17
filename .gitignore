@@ -1,7 +1,8 @@
-# 3 HRNet repos - each is a standalone Git repo
-HRNet-Object-Detection/
-HigherHRNet-Human-Pose-Estimation/
-HRNet-Facial-Landmark-Detection/
+# Git references from detached sub-repos (shallow clone, depth=1)
+.git_hrnet_obj/
+.git_hrnet_pose/
+.git_hrnet_face/
+.repo_refs/
 
 # OS temp files
 .DS_Store
